@@ -76,8 +76,6 @@ let renderYouwebcam = (stream)=>{
   >
   connect</button>
 
-  <h1>PiperChat</h1>
-  <p>No user consent form required!</p>
   <!--FRIEND -->
   <div>
     <p>friend</p>
